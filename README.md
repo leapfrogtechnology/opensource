@@ -44,6 +44,10 @@ Downtime and outages are unavoidable. While we focus on building upon a great id
 
 Set of ESLint rules for JavaScript projects at Leapfrog.
 
+### [frogtoberfest](https://github.com/leapfrogtechnology/frogtoberfest)
+
+Web app to track the progress for Frogtoberfest. 🎃 🐸
+
 ### [just-handlebars-helpers](https://github.com/leapfrogtechnology/just-handlebars-helpers)
 
 A lightweight package with common Handlebars helpers. 
