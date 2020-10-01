@@ -59,7 +59,7 @@ Nepali date picker JavaScript plugin.
 
 ### [oss-leaderboard](https://github.com/leapfrogtechnology/oss-leaderboard)
 
-OSS Leaderboard shows the top contributors based on their contribution activities on GitHub.
+OSS Leaderboard shows the top contributors based on their opensource contributions.
 
 ### [spanner-orm](https://github.com/leapfrogtechnology/spanner-orm)
 
