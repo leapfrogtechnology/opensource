@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img width="512px" src="assets/leapfrog-opensource-logo.png"/> 
+    <img width="512px" src="assets/leapfrog-opensource-logo.png"/>
   </a>
   <br>
   <br>
@@ -26,9 +26,10 @@ Leapfrog Bulletin Board is a Web App that helps to build an interactive Kiosk.
 Leapfrog Bulletin Board to keep its employees updated with its ongoing activities related to projects, various events, individuals and technologies.
 
 ### [chill](https://github.com/leapfrogtechnology/chill)
+
 <div align="left">
   <a href="#">
-    <img width="100px" src="https://github.com/leapfrogtechnology/chill/blob/master/chill.png"/> 
+    <img width="100px" src="https://github.com/leapfrogtechnology/chill/blob/master/chill.png"/>
   </a>
   <br />
   <p>
@@ -38,7 +39,7 @@ Leapfrog Bulletin Board to keep its employees updated with its ongoing activitie
 
 A simple service monitoring tool.
 
-Downtime and outages are unavoidable. While we focus on building upon a great idea, we tend to forget about user experience. If you are running a website or a web service, it is critical that you shorten system’s downtime. 
+Downtime and outages are unavoidable. While we focus on building upon a great idea, we tend to forget about user experience. If you are running a website or a web service, it is critical that you shorten system’s downtime.
 
 ### [eslint-config-leapfrog](https://github.com/leapfrogtechnology/eslint-config-leapfrog)
 
@@ -50,11 +51,15 @@ Web app to track the progress for Frogtoberfest. 🎃 🐸
 
 ### [just-handlebars-helpers](https://github.com/leapfrogtechnology/just-handlebars-helpers)
 
-A lightweight package with common Handlebars helpers. 
+A lightweight package with common Handlebars helpers.
 
 ### [Nepali-Date-Picker](https://github.com/leapfrogtechnology/Nepali-Date-Picker)
 
 Nepali date picker JavaScript plugin.
+
+### [oss-leaderboard](https://github.com/leapfrogtechnology/oss-leaderboard)
+
+OSS Leaderboard shows the top contributors based on their opensource contributions.
 
 ### [spanner-orm](https://github.com/leapfrogtechnology/spanner-orm)
 
@@ -75,6 +80,6 @@ Command line utility to synchronize and version control relational database obje
     <b>Made with :heart: - Leapfrog Technology!</b>
   </p>
   <a href="https://www.lftechnology.com/">
-    <img width="50px" src="assets/leapfrog-icon.svg"/> 
+    <img width="50px" src="assets/leapfrog-icon.svg"/>
   </a>
 </div>
