@@ -21,9 +21,7 @@ Ever had a situation where you needed to pass a value down to a series of callba
 
 ### [bulletin-board](https://github.com/leapfrogtechnology/bulletin-board)
 
-Leapfrog Bulletin Board is a Web App that helps to build an interactive Kiosk.
-
-Leapfrog Bulletin Board to keep its employees updated with its ongoing activities related to projects, various events, individuals and technologies.
+Leapfrog Bulletin Board acts as a platform for sharing useful information regarding ongoing activities at Company to its employees through different informative segments. Company ongoing activities related to projects, various events, individuals and technologies are shared. Information can be in form of Google slides, videos, images, website and even YouTube Videos.
 
 ### [chill](https://github.com/leapfrogtechnology/chill)
 
